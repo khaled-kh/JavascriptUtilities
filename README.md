@@ -2,9 +2,6 @@
 Bunch of JS Javascript Utilities
 
 **typecheck.js**
-
-Easily set typed attributes in a class
-
 ```javascript
   import './typecheck';
 
