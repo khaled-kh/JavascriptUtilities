@@ -1,5 +1,4 @@
 # JavascriptUtilities
-Bunch of JS Javascript Utilities
 
 **typecheck.js**
 ```javascript
