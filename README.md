@@ -6,7 +6,7 @@ Bunch of JS Javascript Utilities
 Easily set typed attributes in a class
 
 ```javascript
-  require('./typecheck')
+  import './typecheck';
 
   class Foo
   {
