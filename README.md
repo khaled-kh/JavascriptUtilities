@@ -1,4 +1,4 @@
-# JavascriptUtilities
+# Javascript Utilities
 
 **typecheck.js**
 ```javascript
